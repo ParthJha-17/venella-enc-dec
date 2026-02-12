@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+vault.db
+vault_storage/
